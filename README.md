@@ -1,3 +1,9 @@
+    This repo is created for Rutgers Fall 2015’s Introduction to Computer Graphics class. The content will feature our submissions from class assignments. 
+
+    Purvil, Rajan, Parth, and  Harshil
+=============================================
+
+
 SteerLite
 ==========
 
